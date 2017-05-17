@@ -65,7 +65,7 @@ public class RevisionNotesArrayAdapter extends ArrayAdapter<Note> {
 		}
 		tvContent.setText(note.getContent());
 
-
+		//tvContent
 		return rowView;
 	}
 
